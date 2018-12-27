@@ -1,0 +1,13 @@
+
+.bg-img{
+    background-image: url("space2.jpg");
+    background-repeat: no-repeat;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.vh{
+    height: 100vh;
+}
